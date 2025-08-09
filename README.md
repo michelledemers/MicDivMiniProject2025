@@ -1,6 +1,6 @@
 # Bioinformatics Protocol for 16S Amplicon Sequencing
 ## Michelle DeMers
-## August 2, 2025
+### August 2, 2025 - August 9, 2025
 
 This workflow is working with a demultiplexed dataset of 16S amplicon sequences, having amplified the 16S V4 region. This is from a small pertubation pilot experiment, where water column and sediment samples were taken from a salt marsh environment and then varying nitrogen sources were added over a short period of time to assess how 'untreated' wastewater pertubation might affect microbial communities in these tow spaces, relative to their initial composition and, possibly, predicted function.
 
